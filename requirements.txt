@@ -1,0 +1,13 @@
+numpy
+opencv-python
+opencv-contrib-python
+mediapipe==0.10.14
+torch
+torchvision
+torchaudio
+googletrans==4.0.0-rc1
+pyttsx3
+matplotlib
+onnx
+onnxruntime
+scikit-learn
